@@ -1,0 +1,11 @@
+[submodule "myblog/public"]
+	path = myblog/public
+	url = https://github.com/justmaiklas/justmaiklas.github.io.git
+	branch = main
+[submodule "myblog/themes/hello-friend"] 
+  path = myblog/themes/hello-friend
+  url = https://github.com/panr/hugo-theme-hello-friend.git
+
+[submodule "myblog/themes/papermod"] 
+  path = myblog/themes/papermod
+  url = https://github.com/adityatelange/hugo-PaperMod.git
