@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on LD4</title>
+    
+    
+    
+    <link>justmaiklas.github.io/posts/</link>
+    <description>Recent content in Posts on LD4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Dec 2022 17:07:48 +0200</lastBuildDate>
+    
+	<atom:link href="justmaiklas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Naujas blog&#39;as</title>
+      <link>justmaiklas.github.io/posts/blog/</link>
+      <pubDate>Fri, 02 Dec 2022 17:07:48 +0200</pubDate>
+      
+      <guid>justmaiklas.github.io/posts/blog/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Puslapio failus su md išplėtimu galite kurti ir iš kitos programos, bet hugo new komanda iškart įrašys meta duomenys į puslapį (puslapio pavadinimą, datą, ir statusą). Atidarykite sukurtą failą. Pakeiskite pavadinimą (title) ir statusą (draft: false). Po meta duomenų parašykite pora sakinių. Išsaugokite failą. Paleiskite serverį (hugo server; hugo serve -D sukompiliuos ir „draft: true“ pažymėtus puslapius) ir patikrinkite ar puslapis buvo sėkmingai sukurtas.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
