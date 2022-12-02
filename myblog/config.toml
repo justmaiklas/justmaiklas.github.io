@@ -1,0 +1,5 @@
+baseURL = 'justmaiklas.github.io'
+languageCode = 'en-us'
+title = 'LD4'
+theme = "hello-friend"
+
