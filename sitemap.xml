@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>justmaiklas.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2022-12-02T17:07:48+02:00</lastmod>
   </url><url>
-    <loc>justmaiklas.github.io/posts/blog/</loc>
+    <loc>/posts/blog/</loc>
     <lastmod>2022-12-02T17:07:48+02:00</lastmod>
   </url><url>
-    <loc>justmaiklas.github.io/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-12-02T17:07:48+02:00</lastmod>
   </url><url>
-    <loc>justmaiklas.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>justmaiklas.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
