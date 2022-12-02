@@ -6,7 +6,16 @@
     <description>Recent content in Posts on LD4</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Dec 2022 17:07:48 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2022 18:09:48 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paveiksliukas</title>
+      <link>/posts/paveiksliukas/</link>
+      <pubDate>Fri, 02 Dec 2022 18:09:48 +0200</pubDate>
+      
+      <guid>/posts/paveiksliukas/</guid>
+      <description>title: &amp;#34;Paveiksliukas&amp;#34; date: 2022-12-02T18:09:48+02:00 draft: false ![alt_text](URL_TO_IMG) ![iterptas paveiksliukas](https://i.picsum.photos/id/0/5000/3333.jpg?hmac=_j6ghY5fCfSD6tvtcV74zXivkJSPIfR9B8w34XeQmvU) </description>
+    </item>
+    
     <item>
       <title>Naujas blog&#39;as</title>
       <link>/posts/blog/</link>
